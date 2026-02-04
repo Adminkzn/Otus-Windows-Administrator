@@ -29,6 +29,7 @@
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab1/7.jpg?raw=true)
 
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab1/8.jpg?raw=true)
+
 Роль успешно добавлена и настроена 
 
 ------------
