@@ -21,3 +21,20 @@
 Аналогично для каждой группы 
 
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab3/6.jpg?raw=true)
+
+------------
+
+
+##### Вывести парольную политику для пользователя в ou manager с помощью Powershell
+
+![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab3/7.jpg?raw=true)
+
+------------
+
+##### Настроить гпо по логированию
+
+
+------------
+
+##### создать gpo с рандомным именем, включить сбросить пароль пользователю в OU employes, даллее найти лог по изменению в оснастке mmc и вывести результат по id лога в powershell
+
