@@ -15,6 +15,9 @@
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab3/4.jpg?raw=true)
 
 Создаем пораметры паролей для каждой группы
+
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab3/5.jpg?raw=true)
+
+Аналогично для каждой группы 
 
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab3/6.jpg?raw=true)
