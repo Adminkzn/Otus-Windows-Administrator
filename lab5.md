@@ -23,3 +23,5 @@
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab5/4.jpg?raw=true)
 
 #### Подключитесь к серверу по RDP как пользователь из OU Manager и зафиксируйте информацию о входе в системе логов.
+
+![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab5/5.jpg?raw=true)
