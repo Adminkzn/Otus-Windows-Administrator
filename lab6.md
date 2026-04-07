@@ -24,7 +24,7 @@ New-NetFirewallRule -DisplayName HTTPS443 -Protocol TCP -LocalPort 443 -Action A
 
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab6/6.jpg?raw=true)
 
-####Создайте HTML-страницу с фамилией и разместите её в IIS на порту 443, Назначьте на порт 443 сертификат от центра сертификации (CA).
+#### Создайте HTML-страницу с фамилией и разместите её в IIS на порту 443, Назначьте на порт 443 сертификат от центра сертификации (CA).
 
 ![](https://github.com/Adminkzn/Otus-Windows-Administrator/blob/main/img/lab6/9.jpg?raw=true)
 
